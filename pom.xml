@@ -13,13 +13,13 @@
     <connection>scm:git:git://github.com/NessComputing/components-ness-pmd-rulesets.git</connection>
     <developerConnection>scm:git:git@github.com:NessComputing/components-ness-pmd-rulesets.git</developerConnection>
     <url>http://github.com/NessComputing/components-ness-pmd-rulesets</url>
-    <tag>HEAD</tag>
+    <tag>ness-pmd-rulesets-1.0.1</tag>
   </scm>
 
   <groupId>com.nesscomputing</groupId>
   <artifactId>ness-pmd-rulesets</artifactId>
   <name>ness-pmd-rulesets</name>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <packaging>jar</packaging>
   <description>Ness PMD rulesets</description>
 </project>

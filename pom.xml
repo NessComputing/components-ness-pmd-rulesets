@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.nesscomputing</groupId>
+    <artifactId>ness-oss-parent</artifactId>
+    <version>22</version>
+  </parent>
+
+  <scm>
+    <connection>scm:git:git://github.com/NessComputing/components-ness-pmd-rulesets.git</connection>
+    <developerConnection>scm:git:git@github.com:NessComputing/components-ness-pmd-rulesets.git</developerConnection>
+    <url>http://github.com/NessComputing/components-ness-pmd-rulesets</url>
+    <tag>HEAD</tag>
+  </scm>
+
+  <groupId>com.nesscomputing</groupId>
+  <artifactId>ness-pmd-rulesets</artifactId>
+  <name>ness-pmd-rulesets</name>
+  <version>1.0.0-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  <description>Ness PMD rulesets</description>
+</project>

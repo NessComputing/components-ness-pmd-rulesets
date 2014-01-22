@@ -24,13 +24,13 @@
 
     <description>Ness PMD Rulesets</description>
 
-    <rule ref="/rulesets/java/basic.xml" >
+    <rule ref="rulesets/java/basic.xml" >
         <exclude name="UselessParentheses" />
     </rule>
 
-    <rule ref="/rulesets/java/clone.xml" />
-    <rule ref="/rulesets/java/finalizers.xml" />
-    <rule ref="/rulesets/java/imports.xml" />
-    <rule ref="/rulesets/java/junit.xml" />
-    <rule ref="/rulesets/java/logging-java.xml" />
+    <rule ref="rulesets/java/clone.xml" />
+    <rule ref="rulesets/java/finalizers.xml" />
+    <rule ref="rulesets/java/imports.xml" />
+    <rule ref="rulesets/java/junit.xml" />
+    <rule ref="rulesets/java/logging-java.xml" />
 </ruleset>
